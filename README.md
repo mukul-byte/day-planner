@@ -8,6 +8,9 @@ This project involves the use of:
 *  Node
 *  Express
 *  EJS Templating
+*  Mongoose
+*  MongoBD Atlas
+*  Heroku
 
 One can make a list of all the task he needs to do. And can check them to cut when the task completes.  
 I also provided a work route for extending the idea ou using templates and exports object.  
